@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\ih6604\\source\\repos\\igme-206\\PE\\Hello-Git\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C42DFF-A5F4-4303-BE1C-A1AE91752355}|Hello-Git\\Hello-Git.csproj|d:\\profiles\\ih6604\\source\\repos\\igme-206\\pe\\hello-git\\hello-git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C42DFF-A5F4-4303-BE1C-A1AE91752355}|Hello-Git\\Hello-Git.csproj|solutionrelative:hello-git\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\ih6604\\source\\repos\\igme-206\\PE\\Hello-Git\\Hello-Git\\Program.cs",
+              "RelativeDocumentMoniker": "Hello-Git\\Program.cs",
+              "ToolTip": "D:\\Profiles\\ih6604\\source\\repos\\igme-206\\PE\\Hello-Git\\Hello-Git\\Program.cs",
+              "RelativeToolTip": "Hello-Git\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:19:01.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
