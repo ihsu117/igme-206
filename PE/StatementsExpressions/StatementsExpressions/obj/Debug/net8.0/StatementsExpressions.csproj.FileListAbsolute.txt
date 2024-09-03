@@ -1,0 +1,14 @@
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\bin\Debug\net8.0\StatementsExpressions.exe
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\bin\Debug\net8.0\StatementsExpressions.deps.json
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\bin\Debug\net8.0\StatementsExpressions.runtimeconfig.json
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\bin\Debug\net8.0\StatementsExpressions.dll
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\bin\Debug\net8.0\StatementsExpressions.pdb
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.AssemblyInfoInputs.cache
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.AssemblyInfo.cs
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.csproj.CoreCompileInputs.cache
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.dll
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\refint\StatementsExpressions.dll
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.pdb
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\StatementsExpressions.genruntimeconfig.cache
+D:\Profiles\ih6604\source\repos\StatementsExpressions\StatementsExpressions\obj\Debug\net8.0\ref\StatementsExpressions.dll

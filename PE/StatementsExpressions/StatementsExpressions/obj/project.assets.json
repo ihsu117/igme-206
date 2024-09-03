@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Profiles\\ih6604\\Source\\Repos\\igme-206\\PE\\HelloWorld\\HelloWorld\\PE_HelloWorld_IH.csproj",
-      "projectName": "PE_HelloWorld_IH",
-      "projectPath": "D:\\Profiles\\ih6604\\Source\\Repos\\igme-206\\PE\\HelloWorld\\HelloWorld\\PE_HelloWorld_IH.csproj",
+      "projectUniqueName": "D:\\Profiles\\ih6604\\Source\\Repos\\igme-206\\PE\\StatementsExpressions\\StatementsExpressions\\PE_StatementsExpressions_IH.csproj",
+      "projectName": "PE_StatementsExpressions_IH",
+      "projectPath": "D:\\Profiles\\ih6604\\Source\\Repos\\igme-206\\PE\\StatementsExpressions\\StatementsExpressions\\PE_StatementsExpressions_IH.csproj",
       "packagesPath": "D:\\Profiles\\ih6604\\.nuget\\packages\\",
-      "outputPath": "D:\\Profiles\\ih6604\\Source\\Repos\\igme-206\\PE\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "D:\\Profiles\\ih6604\\Source\\Repos\\igme-206\\PE\\StatementsExpressions\\StatementsExpressions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Profiles\\ih6604\\AppData\\Roaming\\NuGet\\NuGet.Config",
