@@ -1,0 +1,14 @@
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\bin\Debug\net8.0\PE_HelloWorld_IH.exe
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\bin\Debug\net8.0\PE_HelloWorld_IH.deps.json
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\bin\Debug\net8.0\PE_HelloWorld_IH.runtimeconfig.json
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\bin\Debug\net8.0\PE_HelloWorld_IH.dll
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\bin\Debug\net8.0\PE_HelloWorld_IH.pdb
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.AssemblyInfoInputs.cache
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.AssemblyInfo.cs
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.csproj.CoreCompileInputs.cache
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.dll
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\refint\PE_HelloWorld_IH.dll
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.pdb
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\PE_HelloWorld_IH.genruntimeconfig.cache
+C:\Users\ivann\Documents\Class\IGME\HelloWorld\HelloWorld\obj\Debug\net8.0\ref\PE_HelloWorld_IH.dll
